@@ -1,8 +1,12 @@
+- name: Biofinance Intelligence Report
+  link: /bfi/
+  new_window: true
+  highlight: false
 - name: Pricing
   link: /pricing/
   new_window: false
   highlight: false
-- name: About
+- name: About Us 
   link: /about/
   new_window: false
   highlight: false
