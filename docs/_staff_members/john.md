@@ -1,7 +1,7 @@
 ---
 name: John 'EJ' McCarthy
 position: CEO
-image_path: https://source.unsplash.com/collection/139386/605x605?a=.png
+image_path: https://oldneale.com/images/ej.png
 twitter: oldneale
 blurb: EJ Blurb 
 ---
