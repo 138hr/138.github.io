@@ -1,7 +1,7 @@
 ---
-name: Tom Wilson
+name: Tom Savage
 position: CTO
-image_path: https://source.unsplash.com/collection/139386/600x600?a=.png
-twitter: CloudCannonApp
+image_path: images/tom.jpg
+twitter: savage_tom
 blurb: Tom likes to travel and has visited over 50 countries.
 ---
